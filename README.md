@@ -89,25 +89,22 @@ To get a local clone the repository https://github.com/NATASHA-ct/frontend_hello
 
 In order to run this project you need:
 
-- Ruby
-- Postgresql
-- Node.js
-- Yarn
-- Rails
+- APi EndPoint
+- React
 
 ### Setup
 
 Clone this repository to your desired folder:
 $ git clone
 
- https://github.com/NATASHA-ct/frontend_hello_rails_react.git
+ https://github.com/Agetuni/frontend_hello_rails_react.git
 
 #### Link to backend repository
-    https://github.com/NATASHA-ct/Backend_Hello_Rails_React.git
+    https://github.com/Agetuni/Backend_Hello_Rails_React.git
 
 #### Link to backend repository pull request
  
-    https://github.com/NATASHA-ct/Backend_Hello_Rails_React/pull/1
+    https://github.com/Agetuni/Backend_Hello_Rails_React/pull/1
 
 ### Install
 
